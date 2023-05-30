@@ -1,5 +1,9 @@
 # Multi-National Grocery Chain Data Analysis Project
 
+Please access the Live Interactive Report by clicking below. 
+
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWM4ZjZhNWUtMWNhNC00YWRkLWIyZWMtNDQzOGIyYWM0MTg1IiwidCI6ImYyZGE2MjcyLWQ2YmUtNDQxZS04YjA3LWI1YWI5YTAxYzJlMiJ9) 
+
 ## **Introduction:**
 
 The project aims to implement a powerful business intelligence and data visualization report for a multinational grocery chain. The purpose is to provide the organization with meaningful insights into its products, sales, customer, and store performance. By leveraging Power BI's capabilities, the grocery chain can make data-driven decisions, improve operational efficiency, and enhance customer satisfaction.
