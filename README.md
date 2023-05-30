@@ -15,6 +15,8 @@ C. Data Analysis and Reporting: Power BI's analytical capabilities will be lever
 This report contains 5 dashboards including a main page that serves as a navigation hub. These dashboards offer a comprehensive view of the company's business performance and provide actionable insights. They allow stakeholders to monitor key metrics, identify trends, and make informed decisions regarding product management, revenue generation, and profitability.
 You can access the respective dashboards through the main page, and each dashboard includes a navigation feature to return directly to the main page by clicking on the top-left corner.
 
+![Report-Dashboard-Final-1](https://github.com/AashishBanwari/Multi-National_Grocery_Chain_Sales-Analysis_Project/assets/130801409/a5a40761-0ac0-49e2-82a9-5012c973d17c)
+
 _**1. Overall Business Performance:**_
 The "Overall Business Performance" dashboard provides a comprehensive view of the company's performance. Key metrics such as Total Revenue, Quantity Sold, Total Profit, Total Transactions, and Total Returns are presented using card visuals. A line chart visualizes the trend of Total Profit and Cost over time. A donut chart is used to display the revenue % by country. Additionally, a KPI card showcases the current month's revenue, profit, and returns. Slicers for products, brands, and years allow for data filtering.
 
