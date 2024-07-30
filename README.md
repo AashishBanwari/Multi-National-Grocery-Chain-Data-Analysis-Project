@@ -1,7 +1,3 @@
-#### Please access the Live Interactive Power BI Report by clicking below. 
-
-[Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNGNhNDAzNjYtMTcxNC00MWE2LTg1YjctNWUzMzg2NTk4NWUwIiwidCI6ImMwODJkOGY1LThhOWItNDM5OC1iOWU3LTA0NjI3MWZkOTc4OCIsImMiOjF9&pageName=ReportSectioncd31f1e123a6a50066e1)
-
 ## **Introduction:**
 
 The project aims to implement a powerful business intelligence and data visualization report for a multinational grocery chain. The purpose is to provide the organization with meaningful insights into its products, sales, customer, and store performance. By leveraging Power BI's capabilities, the grocery chain can make data-driven decisions, improve operational efficiency, and enhance customer satisfaction.
@@ -10,9 +6,11 @@ The project aims to implement a powerful business intelligence and data visualiz
 
 ## **Objectives:**
 
-A. Data Integration: The project involves integrating data from various tables. The goal is to create a unified data model that provides a comprehensive view of the organization's operations.
-B. Dashboard Development: Power BI will be utilized to develop interactive and visually appealing dashboards. These dashboards will display key performance indicators (KPIs) related to Overall business performance, sales, product, customer insights and store performance. The aim is to empower stakeholders with real-time insights to track performance and identify areas for improvement.
-C. Data Analysis and Reporting: Power BI's analytical capabilities will be leveraged to perform in-depth analysis of the organization's data. This includes identifying trends, patterns, and correlations in sales, customer behavior, and market dynamics. The project will also involve generating regular reports for different departments and stakeholders, ensuring timely access to relevant information.
+**A. Data Integration:** The project involves integrating data from various tables. The goal is to create a unified data model that provides a comprehensive view of the organization's operations.
+
+**B. Dashboard Development:** Power BI will be utilized to develop interactive and visually appealing dashboards. These dashboards will display key performance indicators (KPIs) related to Overall business performance, sales, product, customer insights and store performance. The aim is to empower stakeholders with real-time insights to track performance and identify areas for improvement.
+
+**C. Data Analysis and Reporting:** Power BI's analytical capabilities will be leveraged to perform in-depth analysis of the organization's data. This includes identifying trends, patterns, and correlations in sales, customer behavior, and market dynamics. The project will also involve generating regular reports for different departments and stakeholders, ensuring timely access to relevant information.
 
 
 ## **Overview:**
